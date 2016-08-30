@@ -244,3 +244,10 @@ i {
   padding-bottom: 15px;
   line-height: 20px;
 }
+
+sup {
+  top: 0em;
+  font-size: 0.5em;
+  text-transform: lowercase;
+  vertical-align: super;
+}
